@@ -7,7 +7,7 @@ public class GameController : MonoBehaviour
     public static GameController control;
     public InventoryControl inventory;
     public ManualControler manual;
-    public PlotSegment[] plotSegments = new PlotSegment[4];
+    private PlotSegment[] plotSegments;
     private int currentPlotSegment = 0;
 
     void Awake()
@@ -25,7 +25,8 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        plotSegments = GetComponentsInChildren<PlotSegment>();
+        Debug.Log("Plot segment count: " + plotSegments.Length);
     }
 
     // Update is called once per frame

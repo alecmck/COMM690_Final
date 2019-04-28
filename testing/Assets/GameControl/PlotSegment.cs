@@ -9,4 +9,6 @@ public interface PlotSegment
 {
     void lightCablePlaced(bool placed);
     void darkCablePlaced(bool placed);
+    void playDarkPhoneAudio();
+    void playLightPhoneAudio();
 }
