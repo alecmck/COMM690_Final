@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-28T01:16:46.253-04:00
-  initializedAtString: 2019-04-28T01:16:45.323-04:00
+  lastUpdatedAtString: 2019-04-28T11:50:50.050-04:00
+  initializedAtString: 2019-04-28T11:50:49.287-04:00
   entries:
   - path: testing\.vs\testing\v15\.suo
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\.vs\testing\v15\.suo
@@ -46,113 +46,41 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: testing\Assets\audio\Paper-004.wav
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\audio\Paper-004.wav
-    projectPath: Assets\audio\Paper-004.wav
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\audio\Paper-004.wav.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\audio\Paper-004.wav.meta
-    projectPath: Assets\audio\Paper-004.wav.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\AudioPlayer.cs
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\AudioPlayer.cs
-    projectPath: Assets\GameControl\AudioPlayer.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\AudioPlayer.cs.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\AudioPlayer.cs.meta
-    projectPath: Assets\GameControl\AudioPlayer.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
   - path: testing\Assets\GameControl\GameController.cs
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\GameController.cs
     projectPath: Assets\GameControl\GameController.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: testing\Assets\GameControl\PartOne.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne.meta
-    projectPath: Assets\GameControl\PartOne.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\PartOne.cs
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne.cs
-    projectPath: Assets\GameControl\PartOne.cs
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: testing\Assets\GameControl\PartOne.cs.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne.cs.meta
-    projectPath: Assets\GameControl\PartOne.cs.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: testing\Assets\GameControl\PartOne\BluePhoneCable.cs
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne\BluePhoneCable.cs
-    projectPath: Assets\GameControl\PartOne\BluePhoneCable.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\PartOne\BluePhoneCable.cs.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne\BluePhoneCable.cs.meta
-    projectPath: Assets\GameControl\PartOne\BluePhoneCable.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
   - path: testing\Assets\GameControl\PartOne\PartOne.cs
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne\PartOne.cs
     projectPath: Assets\GameControl\PartOne\PartOne.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\PartOne\PartOne.cs.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne\PartOne.cs.meta
-    projectPath: Assets\GameControl\PartOne\PartOne.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\PartOne\RedPhoneCable.cs
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne\RedPhoneCable.cs
-    projectPath: Assets\GameControl\PartOne\RedPhoneCable.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\PartOne\RedPhoneCable.cs.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartOne\RedPhoneCable.cs.meta
-    projectPath: Assets\GameControl\PartOne\RedPhoneCable.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\Phone.cs
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\Phone.cs
-    projectPath: Assets\GameControl\Phone.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\Phone.cs.meta
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\Phone.cs.meta
-    projectPath: Assets\GameControl\Phone.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Assets\GameControl\PlotSegment.cs
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PlotSegment.cs
-    projectPath: Assets\GameControl\PlotSegment.cs
-    originalPath: 
     status: 3
     staged: 0
-  - path: testing\Assets\InventorySystem\Scripts\InventoryControl.cs
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\InventorySystem\Scripts\InventoryControl.cs
-    projectPath: Assets\InventorySystem\Scripts\InventoryControl.cs
+  - path: testing\Assets\GameControl\PartThree.meta
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartThree.meta
+    projectPath: Assets\GameControl\PartThree.meta
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: testing\Assets\GameControl\PartThree\PartThree.cs
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartThree\PartThree.cs
+    projectPath: Assets\GameControl\PartThree\PartThree.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Assets\GameControl\PartThree\PartThree.cs.meta
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartThree\PartThree.cs.meta
+    projectPath: Assets\GameControl\PartThree\PartThree.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Assets\GameControl\PartTwo.meta
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\GameControl\PartTwo.meta
+    projectPath: Assets\GameControl\PartTwo.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: testing\Assets\Scenes\SampleScene.unity
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Assets\Scenes\SampleScene.unity
@@ -166,11 +94,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: testing\Library\CurrentLayout.dwlt
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\CurrentLayout.dwlt
-    projectPath: Library\CurrentLayout.dwlt
+  - path: testing\Library\CrashedAssetImports.txt
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: testing\Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\CurrentMaximizeLayout.dwlt
@@ -183,12 +111,6 @@ MonoBehaviour:
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
-    staged: 0
-  - path: testing\Library\expandedItems
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    status: 3
     staged: 0
   - path: testing\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\gfu\cache\branches.yaml
@@ -226,17 +148,41 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: testing\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: testing\Library\metadata\13\13feb06a6000fbd488e0dd05b63f02d2
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\13\13feb06a6000fbd488e0dd05b63f02d2
+    projectPath: Library\metadata\13\13feb06a6000fbd488e0dd05b63f02d2
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: testing\Library\metadata\3d\3db34e6cf896a4440911e9422ba30ba4
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\3d\3db34e6cf896a4440911e9422ba30ba4
-    projectPath: Library\metadata\3d\3db34e6cf896a4440911e9422ba30ba4
+  - path: testing\Library\metadata\13\13feb06a6000fbd488e0dd05b63f02d2.info
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\13\13feb06a6000fbd488e0dd05b63f02d2.info
+    projectPath: Library\metadata\13\13feb06a6000fbd488e0dd05b63f02d2.info
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: testing\Library\metadata\2a\2a8433393ec102a47b269520f467c00f
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\2a\2a8433393ec102a47b269520f467c00f
+    projectPath: Library\metadata\2a\2a8433393ec102a47b269520f467c00f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Library\metadata\2a\2a8433393ec102a47b269520f467c00f.info
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\2a\2a8433393ec102a47b269520f467c00f.info
+    projectPath: Library\metadata\2a\2a8433393ec102a47b269520f467c00f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Library\metadata\5c\5c2291c5929ba3646a472df94b5261ee
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\5c\5c2291c5929ba3646a472df94b5261ee
+    projectPath: Library\metadata\5c\5c2291c5929ba3646a472df94b5261ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Library\metadata\5c\5c2291c5929ba3646a472df94b5261ee.info
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\5c\5c2291c5929ba3646a472df94b5261ee.info
+    projectPath: Library\metadata\5c\5c2291c5929ba3646a472df94b5261ee.info
+    originalPath: 
+    status: 1
     staged: 0
   - path: testing\Library\metadata\61\616d8e69ece8d2540b71fa9713fdebb3
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\61\616d8e69ece8d2540b71fa9713fdebb3
@@ -244,101 +190,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: testing\Library\metadata\61\616d8e69ece8d2540b71fa9713fdebb3.info
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\61\616d8e69ece8d2540b71fa9713fdebb3.info
-    projectPath: Library\metadata\61\616d8e69ece8d2540b71fa9713fdebb3.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: testing\Library\metadata\6f\6f8aa0ed0f7ffea45b53fce79c2a0c33
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\6f\6f8aa0ed0f7ffea45b53fce79c2a0c33
-    projectPath: Library\metadata\6f\6f8aa0ed0f7ffea45b53fce79c2a0c33
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\6f\6f8aa0ed0f7ffea45b53fce79c2a0c33.info
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\6f\6f8aa0ed0f7ffea45b53fce79c2a0c33.info
-    projectPath: Library\metadata\6f\6f8aa0ed0f7ffea45b53fce79c2a0c33.info
-    originalPath: 
-    status: 1
-    staged: 0
   - path: testing\Library\metadata\91\9103facbbf9db334db073a057dbcdca6
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\91\9103facbbf9db334db073a057dbcdca6
     projectPath: Library\metadata\91\9103facbbf9db334db073a057dbcdca6
     originalPath: 
     status: 3
-    staged: 0
-  - path: testing\Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3
-    projectPath: Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3.info
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3.info
-    projectPath: Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3.resource
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3.resource
-    projectPath: Library\metadata\91\9138c1a8cfeab4041ac26c118da815b3.resource
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\af\af4bfa104759c50449656667c9333b7a
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\af\af4bfa104759c50449656667c9333b7a
-    projectPath: Library\metadata\af\af4bfa104759c50449656667c9333b7a
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\af\af4bfa104759c50449656667c9333b7a.info
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\af\af4bfa104759c50449656667c9333b7a.info
-    projectPath: Library\metadata\af\af4bfa104759c50449656667c9333b7a.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\e9\e9df6a29dc4d9d14d9fc6f630a4888ca
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\e9\e9df6a29dc4d9d14d9fc6f630a4888ca
-    projectPath: Library\metadata\e9\e9df6a29dc4d9d14d9fc6f630a4888ca
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: testing\Library\metadata\ea\ea6a61665861543479dfa23e96d67043
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\ea\ea6a61665861543479dfa23e96d67043
-    projectPath: Library\metadata\ea\ea6a61665861543479dfa23e96d67043
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\ea\ea6a61665861543479dfa23e96d67043.info
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\ea\ea6a61665861543479dfa23e96d67043.info
-    projectPath: Library\metadata\ea\ea6a61665861543479dfa23e96d67043.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\eb\eb91c00c5d97c8848a50149faca0ba03
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\eb\eb91c00c5d97c8848a50149faca0ba03
-    projectPath: Library\metadata\eb\eb91c00c5d97c8848a50149faca0ba03
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\eb\eb91c00c5d97c8848a50149faca0ba03.info
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\eb\eb91c00c5d97c8848a50149faca0ba03.info
-    projectPath: Library\metadata\eb\eb91c00c5d97c8848a50149faca0ba03.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\f1\f142d2f5c41b8c246a64266e59919a40
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\f1\f142d2f5c41b8c246a64266e59919a40
-    projectPath: Library\metadata\f1\f142d2f5c41b8c246a64266e59919a40
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: testing\Library\metadata\f1\f142d2f5c41b8c246a64266e59919a40.info
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\metadata\f1\f142d2f5c41b8c246a64266e59919a40.info
-    projectPath: Library\metadata\f1\f142d2f5c41b8c246a64266e59919a40.info
-    originalPath: 
-    status: 1
     staged: 0
   - path: testing\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -358,21 +214,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: testing\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    status: 3
-    staged: 0
   - path: testing\Library\StateCache\Hierarchy\5675a1-mainStage.json
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\StateCache\Hierarchy\5675a1-mainStage.json
     projectPath: Library\StateCache\Hierarchy\5675a1-mainStage.json
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: testing\Library\StateCache\SceneView\a27aab-mainStage.json
-    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Library\StateCache\SceneView\a27aab-mainStage.json
-    projectPath: Library\StateCache\SceneView\a27aab-mainStage.json
     originalPath: 
     status: 3
     staged: 0
@@ -391,6 +235,66 @@ MonoBehaviour:
   - path: testing\Temp\UnityLockfile
     fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-1e265e4b751c5a245af4c95bd2738676
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-1e265e4b751c5a245af4c95bd2738676
+    projectPath: Temp\UnityTempFile-1e265e4b751c5a245af4c95bd2738676
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-30cc98d41d79fab49a7d3a0a980d95d4
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-30cc98d41d79fab49a7d3a0a980d95d4
+    projectPath: Temp\UnityTempFile-30cc98d41d79fab49a7d3a0a980d95d4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-620b84a16ed13fe4a9084022b0aca33d
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-620b84a16ed13fe4a9084022b0aca33d
+    projectPath: Temp\UnityTempFile-620b84a16ed13fe4a9084022b0aca33d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-907c5529921dd784ba9051556ba24077
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-907c5529921dd784ba9051556ba24077
+    projectPath: Temp\UnityTempFile-907c5529921dd784ba9051556ba24077
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-a2fb53f88724eb547a76e35d0d9a096f
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-a2fb53f88724eb547a76e35d0d9a096f
+    projectPath: Temp\UnityTempFile-a2fb53f88724eb547a76e35d0d9a096f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-a77cc6de2fe034d44820b036e8490932
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-a77cc6de2fe034d44820b036e8490932
+    projectPath: Temp\UnityTempFile-a77cc6de2fe034d44820b036e8490932
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-d1163704c60983545be88911f1ded5e5
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-d1163704c60983545be88911f1ded5e5
+    projectPath: Temp\UnityTempFile-d1163704c60983545be88911f1ded5e5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-d6a8c46bff146954fa7c3ff4caf69b8b
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-d6a8c46bff146954fa7c3ff4caf69b8b
+    projectPath: Temp\UnityTempFile-d6a8c46bff146954fa7c3ff4caf69b8b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-e5bdff02e51bb81438a16632722b0c72
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-e5bdff02e51bb81438a16632722b0c72
+    projectPath: Temp\UnityTempFile-e5bdff02e51bb81438a16632722b0c72
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: testing\Temp\UnityTempFile-e91c4281605426b478dcea6d4d2b81a0
+    fullPath: C:\Users\meganjn\Documents\Communications 690.001\COMM690Final\COMM690_Final\testing\Temp\UnityTempFile-e91c4281605426b478dcea6d4d2b81a0
+    projectPath: Temp\UnityTempFile-e91c4281605426b478dcea6d4d2b81a0
     originalPath: 
     status: 1
     staged: 0

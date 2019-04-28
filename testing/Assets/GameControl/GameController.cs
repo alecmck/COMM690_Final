@@ -35,16 +35,23 @@ public class GameController : MonoBehaviour
 
     }
 
+    //Input: string name of item
+    //Returns bool of if item is in inventory
     public bool inventoryContains(string itemName)
     {
         return inventory.inventoryContains(itemName);
     }
 
+    //Input: string name of item
+    //Returns InventoryItem object of that name
     public InventoryItem getInventoryItem(string itemName)
     {
         return null;
     }
 
+    //Input: string name of item
+    //Returns bool if successful/failed
+    //Removes item from inventory and does not return item to the world
     public bool destroyInventoryItem(string itemName)
     {
         if (!inventoryContains(itemName))
@@ -56,11 +63,16 @@ public class GameController : MonoBehaviour
         return true;
     }
 
+    //This does not do anything yet
     public bool updateManual(string manualCode)
     {
         return false;
     }
 
+    //I have written the Inventory code for this but I have not tested it yet so I am not connecting them yet.
+    //If you need this method, call it as needed and everything should be fine once I write it. 
+    //Input: -an array of strings of the items to be combined, these items will be destroyed.
+    //       -the new InventoryItem to be added to the inventory
     public bool combineInventoryItems(string[] itemsToCombine, InventoryItem itemToPlace)
     {
         return false;

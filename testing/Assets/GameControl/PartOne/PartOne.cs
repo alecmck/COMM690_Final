@@ -20,7 +20,24 @@ public class PartOne : MonoBehaviour, PlotSegment
     private bool darkAudioPlayed = false;
     private bool lightAudioPlayed = false;
 
+    // Start is called before the first frame update
+    void Start()
+    {
+        controller = GetComponentInParent<GameController>();
+        AudioPlayer[] audio = GetComponentsInChildren<AudioPlayer>();
+        darkAudio = audio[0];
+        lightAudio = audio[1];
+    }
 
+
+    // Update is called once per frame
+    void Update()
+    {
+        if(darkAudioPlayed && lightAudioPlayed)
+        {
+            controller.segmentComplete(1);
+        }
+    }
     public void selectDarkPhone()
     {
         Debug.Log("Recived select dark phone");
@@ -56,20 +73,5 @@ public class PartOne : MonoBehaviour, PlotSegment
         }        
     }
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        controller = GetComponentInParent<GameController>();
-        AudioPlayer[] audio = GetComponentsInChildren<AudioPlayer>();
-        darkAudio = audio[0];
-        lightAudio = audio[1];
-    }
-
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 }
 

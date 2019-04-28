@@ -68,6 +68,7 @@
     <Compile Include="Assets\GameControl\PartOne\BluePhoneCable.cs" />
     <Compile Include="Assets\GameControl\PartOne\PartOne.cs" />
     <Compile Include="Assets\GameControl\PartOne\RedPhoneCable.cs" />
+    <Compile Include="Assets\GameControl\PartThree\PartThree.cs" />
     <Compile Include="Assets\GameControl\Phone.cs" />
     <Compile Include="Assets\GameControl\PlotSegment.cs" />
     <Compile Include="Assets\InventorySystem\Scripts\IButton.cs" />
