@@ -37,7 +37,7 @@ public class GameController : MonoBehaviour
 
     public bool inventoryContains(string itemName)
     {
-        return false;
+        return inventory.inventoryContains(itemName);
     }
 
     public InventoryItem getInventoryItem(string itemName)
@@ -47,7 +47,13 @@ public class GameController : MonoBehaviour
 
     public bool destroyInventoryItem(string itemName)
     {
-        return false;
+        if (!inventoryContains(itemName))
+        {
+            return false;
+        }
+        InventoryItem i = inventory.getInventoryItem(itemName);
+        inventory.destroyInventoryItem(i);
+        return true;
     }
 
     public bool updateManual(string manualCode)
@@ -62,6 +68,17 @@ public class GameController : MonoBehaviour
 
     public void segmentComplete(int segmentNumber)
     {
+        currentPlotSegment++;
+    }
 
+    public void DarkPhoneClicked()
+    {
+        Debug.Log("Sending select Dark Phone to plot segment " + currentPlotSegment);
+        plotSegments[currentPlotSegment].selectDarkPhone();
+    }
+    public void LightPhoneClicked()
+    {
+        Debug.Log("Sending select Light Phone to plot segment " + currentPlotSegment);
+        plotSegments[currentPlotSegment].selectLightPhone();
     }
 }

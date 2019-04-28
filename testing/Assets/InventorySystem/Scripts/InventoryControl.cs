@@ -81,9 +81,11 @@ public class InventoryControl : MonoBehaviour
 
     public bool inventoryContains(string itemName)
     {
+        Debug.Log("IN Inventory Contains");
         InventoryItem[] items = Inventory.ToArray();
         for (int i = 0; i < items.Length; i++)
         {
+            Debug.Log("I: " + i + " name: " + items[i].GetName() + " name: " + itemName);
             if (items[i].GetName().Equals(itemName))
             {
                 return true;
@@ -114,7 +116,7 @@ public class InventoryControl : MonoBehaviour
             buttons[i].gameObject.SetActive(false);
         }
         InventoryItem[] items = Inventory.ToArray();
-        Inventory.Clear();
+        ContenPanel.DetachChildren();
         for (int i = 0; i < items.Length; i++)
         {
             Collect(items[i]);

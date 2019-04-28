@@ -63,8 +63,12 @@
     <Compile Include="Assets\AssetStoreOriginals\_SNAPS_PrototypingAssets\About\Scripts\Readme.cs" />
     <Compile Include="Assets\CursorsAndCrosshairs\CursorChanger.cs" />
     <Compile Include="Assets\Flashlight.cs" />
+    <Compile Include="Assets\GameControl\AudioPlayer.cs" />
     <Compile Include="Assets\GameControl\GameController.cs" />
-    <Compile Include="Assets\GameControl\PartOne.cs" />
+    <Compile Include="Assets\GameControl\PartOne\BluePhoneCable.cs" />
+    <Compile Include="Assets\GameControl\PartOne\PartOne.cs" />
+    <Compile Include="Assets\GameControl\PartOne\RedPhoneCable.cs" />
+    <Compile Include="Assets\GameControl\Phone.cs" />
     <Compile Include="Assets\GameControl\PlotSegment.cs" />
     <Compile Include="Assets\InventorySystem\Scripts\IButton.cs" />
     <Compile Include="Assets\InventorySystem\Scripts\InventoryControl.cs" />
